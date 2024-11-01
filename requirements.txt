@@ -1,2 +1,6 @@
 notebook
 laspy
+lazrs
+pyvista[all]
+scikit-learn
+ipympl
